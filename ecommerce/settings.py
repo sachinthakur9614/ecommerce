@@ -98,9 +98,9 @@ DATABASES = {
   'default': {
     'ENGINE': 'django.db.backends.postgresql',
        'NAME': 'defaultdb',
-        'USER':'doadmin',
-        'PASSWORD':'pbq4dewl6insinq5',
-        'HOST':'tum99-do-postgresql-1-fra1-do-user-6704863-0.db.ondigitalocean.com',
+        'USER':'',
+        'PASSWORD':'',
+        'HOST':'',
         'PORT':'25060',
     }
 }
